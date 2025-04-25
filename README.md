@@ -5,3 +5,11 @@ This repository contains a Cisco Packet Tracer project for the CCNA Endpoint Sec
 Project Overview
 
 The goal of this lab is to secure a wireless network for a small business by configuring WPA2 Personal security on a 2.4 GHz wireless band, updating client device settings, and verifying connectivity. The lab is designed to reinforce practical skills in wireless network configuration and endpoint security.
+
+Objectives
+    >>> Verify initial network connectivity by accessing a web server (www.cisco.pka).
+    >>> Configure a wireless router with WPA2 Personal, AES encryption, and a passphrase (Network123) for the 2.4 GHz band.
+    >>> Update laptop wireless settings to connect to the secured SSID (Academy) using the pre-shared key.
+    >>> Validate connectivity post-configuration by accessing the web server
+
+  
