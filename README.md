@@ -2,7 +2,7 @@
 
 [![License: Educational Use](https://img.shields.io/badge/License-Educational_Use-lightgrey.svg)](#license)
 
-This repository contains a Cisco Packet Tracer project focused on configuring basic wireless security using **WPA2 Personal**. The lab simulates securing a small b wireless network by implementing WPA2 Personal with AES encryption on a tri-band wireless router.
+This repository contains a Cisco Packet Tracer project focused on configuring basic wireless security using **WPA2 Personal**. The lab simulates securing a small bu wireless network by implementing WPA2 Personal with AES encryption on a tri-band wireless router.
 
 ---
 
