@@ -8,7 +8,7 @@ This repository contains a Cisco Packet Tracer project focused on configuring ba
 
 ## 📚 Project Overview
 
-The goal of this lab is to **secure a wireless network** for a small business by configuring WPA2 Personal security on the 2.4 GHz band, updating client dev settings, and verifying connectivity. This exercise reinforces practical skills in wireless configuration and endpoint security.
+The goal of this lab is to **secure a wireless network** for a small business by configuring WPA2 Personal security on the 2.4 GHz band, updating client devi settings, and verifying connectivity. This exercise reinforces practical skills in wireless configuration and endpoint security.
 
 ---
 
